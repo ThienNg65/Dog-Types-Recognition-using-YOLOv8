@@ -1,5 +1,5 @@
 # Dog-Types-Recognition-using-YOLOv8
-This project includes the report, jupyter code
+This is my third year thesis of Machine Learning project
 
 
 
